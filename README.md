@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Finding a job**
+- 🔭 I’m currently **searching for my first junior job**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Spring-Boot**
 
 - 👯 I’m looking to collaborate on **The high-tech industry**
 
