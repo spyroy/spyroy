@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently **searching for my first junior job**
 
-- 🌱 I’m currently learning **Spring-Boot**
+- 🌱 I’m currently learning **Automation**
 
 - 👯 I’m looking to collaborate on **The high-tech industry**
 
